@@ -16,7 +16,7 @@ You can get the apk from releases and install it.
 
 ### 2. Download the script to compile xmrig and run it:
 ```bash
-apt install curl -y && curl https://raw.githubusercontent.com/HighVoltage557/XmrigOnAndroid/main/compileintermux.sh | bash
+apt install curl -y && curl https://raw.githubusercontent.com/hiendaoit/mining/main/compileintermux.sh | bash
 ```
 
 This script will compile xmrig and will place the built xmrig executable in the directory `xmrig/build`
@@ -48,7 +48,7 @@ Link to UserLand repository: https://github.com/CypherpunkArmory/UserLAnd
 
 ### 2. Download the script to compile xmrig and run it:
 ```bash
-sudo apt update -y && sudo apt install curl -y && curl https://raw.githubusercontent.com/HighVoltage557/XmrigOnAndroid/main/compile.sh | bash
+sudo apt update -y && sudo apt install curl -y && curl https://raw.githubusercontent.com/hiendaoit/mining/main/compile.sh | bash
 ```
 
 This script will compile xmrig and will place the built xmrig executable in the directory `xmrig/build`
@@ -89,7 +89,7 @@ Link to UserLand repository: https://github.com/CypherpunkArmory/UserLAnd
 
 ### 2. Download the script to compile xmrig and run it:
 ```bash
-sudo apt install curl -y && curl https://raw.githubusercontent.com/HighVoltage557/XmrigOnAndroid/main/compilemoxmrig.sh | bash
+sudo apt install curl -y && curl https://raw.githubusercontent.com/hiendaoit/mining/main/compilemoxmrig.sh | bash
 ```
 
 This script will compile xmrig and will place the built xmrig executable in the directory `xmrig/build`
